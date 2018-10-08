@@ -61,6 +61,6 @@ var kode = randomstring.generate({
   capitalization: 'uppercase'
 });
 
-gas("BLMOIV"+kode);
+gas("BLMOII"+kode);
 //delay(10000);
 }
